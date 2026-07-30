@@ -1,6 +1,6 @@
 # Hi there, I'm Renata 👋
 
-**Virologist | Molecular Modeler | Aspiring Bioinformatician**
+**Virologist | Aspiring Bioinformatician**
 
 ---
 
