@@ -1,10 +1,10 @@
-# Hi there, I'm Renata 👋
+#Hi there, I'm Renata 👋
 
-**Virologist | Aspiring Bioinformatician**
+*Virologist | Aspiring Bioinformatician*
 
 ---
 
-## 🔬 About Me
+## About Me
 
 I hold a PhD in **Virology** and have hands-on experience in **molecular docking** and **molecular dynamics (MD) simulations**. I am now transitioning into **Bioinformatics** and **Computational Biology**, combining my deep biological knowledge with data-driven computational approaches to tackle problems in structural biology and drug discovery.
 
@@ -12,12 +12,12 @@ I am passionate about understanding host-pathogen interactions at the molecular 
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ### Molecular Modeling
 - AutoDock / AutoDock Vina
 - GROMACS (Molecular Dynamics)
-- PyMOL / ChimeraX
+- PyMOL 
 
 ### Programming & Data Analysis
 - Python (pandas, numpy, matplotlib, seaborn)
@@ -31,13 +31,13 @@ I am passionate about understanding host-pathogen interactions at the molecular 
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 *Coming soon — I am currently organizing and documenting my docking and MD analysis pipelines.*
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced Python for bioinformatics pipelines
 - Machine learning applications in drug discovery
@@ -45,7 +45,7 @@ I am passionate about understanding host-pathogen interactions at the molecular 
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatanobredafonseca/)
 
