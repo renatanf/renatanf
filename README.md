@@ -16,16 +16,14 @@ I am passionate about understanding host-pathogen interactions at the molecular 
 
 ### Molecular Modeling
 - AutoDock / AutoDock Vina
-- GROMACS (Molecular Dynamics)
+- AMBER (Molecular Dynamics)
 - PyMOL 
 
 ### Programming & Data Analysis
-- Python (pandas, numpy, matplotlib, seaborn)
-- R (ggplot2, tidyverse)
+- Python 
 - Bash scripting & Linux environments
 
 ### Bioinformatics
-- Sequence analysis (BLAST, Biopython)
 - Structural bioinformatics
 - HPC / Cluster computing (SLURM)
 
